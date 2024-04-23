@@ -1,8 +1,11 @@
 # Stroke-Prediction-using-ML-Algorithms
+
 Stroke Prediction using ML Algorithms
+
 The main objective of this project is to design a robust machine learning model for predicting the likelihood of stroke based on multiple health parameters and demographic characteristics. Stroke is the most common cause of death and disability worldwide while early diagnosis plays significant part in timely interventions and better patient outcomes. The purpose of this study is to investigate whether predictive models developed using machine learning algorithms can help in identifying those individuals with higher chances of developing a stroke. The report provides a background information on stroke, theory behind machine learning methods, requirements for hardware and software, implementation details and evaluation of model feasibility including use of appropriate measures.
 
 **OBJECTIVE**
+
 I would like to build a machine learning model that will be able to predict stroke with high degree of accuracy. To achieve this, I have done the following things:
 
 1. Measure Different Machine Learning Algorithms:
@@ -16,11 +19,13 @@ Providing physicians with another resource other than their own instincts when a
 Offering timely predictions about risks associated with strokes improved outcomes for patients.
 
 **1. Background of the Project**
+
 Stroke is a serious illness that can be caused by blocking or reducing blood flow to a part of the brain, which results in death of brain cells and possible long-term disabilities. It poses major public health issues for individuals, families, and healthcare delivery systems globally. Early diagnosis and prompt response are necessary to reduce stroke incidence rates and improve patient outcomes.
 
 Machine learning is one branch of artificial intelligence with great prospects in several medical fields such as disease prediction and risk evaluation. Machine learning models employing extensive data sets, as well as sophisticated algorithms have the potential to detect patterns and correlations between items (e.g., poor health) and outcome variables pertaining to strokes.
 
 **2. The Need for Machine Learning in Stroke**
+
 Machine learning algorithms have the potential to change the face of future care for patients with stroke by Machine learning algorithms have the potential to change the face of future care for patients with stroke by:
 
 Early stroke detection : Seeing patient data involving blood test results or scans and recognizing those having high odds of having a stroke in future.
@@ -39,4 +44,5 @@ Support Vector Machines (SVM): 0.9393
 
 
 **Result**
+
 This project produced excellent results. The logistic regression and SVM classifiers proved their robustness as they had an impressive 93% accuracy for predicting stroke or not; A clear implication is that these models can be applied specifically to this data set to solve the problem of contingency prediction. The success of these models highlights the importance of selecting the right algorithm as an important factor affecting the accuracy of machine learning algorithms in healthcare
