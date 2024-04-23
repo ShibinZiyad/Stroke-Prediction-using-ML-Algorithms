@@ -36,10 +36,15 @@ Predictors of stroke recovery: Determining how likely a patient is to make a ful
 **Summary**
 
 This project aimed to build a machine learning-model based system for predicting stroke. Thorough data preparation was vital and entailed handling of missing values in the ‘bmi’ column as well as systematically identifying and eliminating outliers to ensure a clean dataset for modeling. Exploratory data analysis utilized multiple visualizations (pie charts, bar plots, histograms, distplots, violin plots, correlation matrices, catplots and pairplots) to uncover linkages, distributions and underlying patterns within the data.  The categorical variables were converted into numerical equivalents using label encoding that are compatible with machine learning algorithms.  We thoroughly deployed Decision Trees Logistic Regression KNN Random Forest SVM and examined their performances by applying accuracy scores and confusion matrices and using this algorithm efficiently I am able to predict whether the patient is have the chances of getting the stroke in the future. This are the accuracy scores of the algorithm which I have used in the project
+
 Decision Tree: 0.9021
+
 Logistic Regression: 0.9383
+
 K-Nearest Neighbors (KNN): 0.9344
+
 Random Forest: 0.9363
+
 Support Vector Machines (SVM): 0.9393
 
 
